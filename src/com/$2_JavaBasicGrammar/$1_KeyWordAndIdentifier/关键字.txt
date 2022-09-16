@@ -1,0 +1,14 @@
+关键字
+    1. Java自己保留的一些单词,作为特殊功能的
+    2. 关键字不能用作类名或变量名称
+    3. Java中的关键字
+        | **abstract**   | **assert**       | **boolean**   | **break**      | **byte**   |
+        | **case**       | **catch**        | **char**      | **class**      | **const**  |
+        | **continue**   | **default**      | **do**        | **double**     | **else**   |
+        | **enum**       | **extends**      | **final**     | **finally**    | **float**  |
+        | **for**        | **goto**         | **if**        | **implements** | **import** |
+        | **instanceof** | **int**          | **interface** | **long**       | **native** |
+        | **new**        | **package**      | **private**   | **protected**  | **public** |
+        | **return**     | **strictfp**     | **short**     | **static**     | **super**  |
+        | **switch**     | **synchronized** | **this**      | **throw**      | **throws** |
+        | **transient**  | **try**          | **void**      | **volatile**   | **while**  |
