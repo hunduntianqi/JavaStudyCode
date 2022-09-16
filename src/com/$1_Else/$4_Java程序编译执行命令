@@ -1,7 +1,0 @@
-编译：javac 文件名.java
-
-范例：javac HelloWorld.java
-
-执行：java 类名
-
-范例：java HelloWorld
