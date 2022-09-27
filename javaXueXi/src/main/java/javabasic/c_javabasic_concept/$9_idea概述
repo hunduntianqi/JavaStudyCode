@@ -1,0 +1,7 @@
+IDEA概述:
+    IDEA全称 Intellij IDEA, 是用于Java语言开发的集成环境, 是业界公认的目前用于Java开发最好的工具
+    集成环境: 是把代码, 编译, 执行, 调试等多种功能综合到一起的开发工具
+    下载: https://www.jetbrains.com/idea/
+    psvm / main : 快速生成main方法
+    sout: 快速生成输出语句
+    ctrl + alt + M: 快速抽取生成方法
